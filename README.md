@@ -1,5 +1,18 @@
-# Web Docs
+/docs 
+  - each unit of the course
+  - course-info.md contains course expectations in /docs folder
+  - images are linked from folders, not online
 
-📖 Documentation, class notes, & project instructions for BWL's Pre-AP Computer Science: Web Development course. FOR EDUCATIONAL USE!
+/config.yml for url update 
 
-This is a [Jekyll](https://jekyllrb.com) site that uses the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme.
+/index.md is the home page 
+
+/_includes 
+  - content that shows up on every page
+    
+/_layouts
+  - repeated page structures that then get referenced in html files
+
+/_sass/custom 
+  - custom css for the webpage - color schemes, overwritten changes from just the docs made in this
+  - markdown formats properties differently than html, look towards the img customization for example 
