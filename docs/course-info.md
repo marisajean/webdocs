@@ -104,7 +104,7 @@ nav_order: 0
 </details>
 </html>
 
-* 💯 **GRADE IMPROVEMENT POLICY**: Upon approval, you may <span class="highlighter">re-submit projects for a full RE-GRADE</span>, but you must email me to let me know which project for approval, and it must be completed BEFORE the end of the following project. Once I receive your email, I will respond with a confirmed re-submission due date. 
+* 💯 **GRADE IMPROVEMENT POLICY**: Upon approval, you may <span class="highlighter">re-submit projects for a full RE-GRADE</span>, but you must email me to let me know which project. All regrades must be completed BEFORE the end of the following unit's project. Once I receive your email, I will respond with a confirmed re-submission due date. 
   * When re-working your projects, you are encouraged to come to **office hours** for help or additional feedback. I am way more likely to grade your work favorably if you have shown effort towards improving your skills...
   * Coding is an **iterative process** which means it is VERY normal not to have your programs working perfectly the first time! Programmers often have to edit their code many times.
   
@@ -117,7 +117,7 @@ nav_order: 0
 * _Homework assignments follow this workflow:_
 > 1. At the beginning of each week, I will **post a DISCUSSION assignment on Blackbaud** that includes a **GitHub repository link** to a working program that you will **analyze collaboratively**.
 > 2. You will "fork the repository" (_make your own copy of the program_) to run it, experiment with it, and figure out how it works. The goal is to practice describing and explaining code language in plain English.
-> 3. To earn full credit, you must post **at least two (2) comments**: one main post, and one response to a classmate. See our course website's [CodeCollab Instructions](https://coderina.dev/webdocs/docs/ref/codecollab.html) page for detailed guidelines.
+> 3. To earn full credit, you must post **at least two (2) comments**: one main post, and one response to a classmate. See our course website's [CodeCollab Instructions](https://marisajean.github.io/webdocs/docs/ref/codecollab.html) page for detailed guidelines.
 
 {: .highlight .fs-3 }
 CodeCollabs are always **due on `Fridays @ 11:59PM`**❗
@@ -141,7 +141,7 @@ Expect at least one classwork-type assignment to be **graded** each week: Either
 ‼️ If you are **ABSENT**, you are expected to take initiative to catch up on any missed classwork! _Everything_ we cover in class is on the **course website**. Refer to the **Blackbaud** classwork assignment each week to see which 📓 **note sections** were covered or which 🎯 **activities** need to be completed. 
 
 ### ASSESSMENTS (15%)
-* 📚 **Assessments** imay take a variety of formats, but will largely be in-class assignments similar to homework discussions using exam.net to assess students analysis without the use of AI. Students may also be asked to write pseudo-code for a program, debug code by hand, or present their coding project to the class for review. Assessments are meant to be challenging additions to the course to push students towards proficient coding, leadership, and independent thinking.
+* 📚 **Assessments** may take a variety of formats, but will largely be in-class assignments similar to homework discussions using exam.net to assess students analysis without the use of AI. Students may also be asked to write pseudo-code for a program, debug code by hand, or present their coding project to the class for review. Assessments are meant to be challenging additions to the course to push students towards proficient coding, leadership, and independent thinking.
 
 ---
 
