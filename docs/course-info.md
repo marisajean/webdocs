@@ -33,9 +33,10 @@ nav_order: 0
 
 ## Assignments & Grading
 
-> Assignments in this course include: **PROJECTS** (40% of overall grade), **HOMEWORK** (30% of overall grade), and **CLASSWORK** (30% of overall grade). _See below for details, procedures, and grading policies_.
+> Assignments in this course include: **PROJECTS** (35% of overall grade), **HOMEWORK** (25% of overall grade), **CLASSWORK** (25% of overall grade), and **ASSESSMENTS** (15%). _See below for details, procedures, and grading policies_.
 
-### PROJECTS (40%)
+
+### PROJECTS (35%)
 * 💻 **Projects** serve as the bulk of our coursework. Expect at least one major coding project assigned per unit, to which we will dedicate several weeks of class time.
   * Projects involve writing full programs that have rigorous requirements designed to test your technical skills, however, plenty of **support** is available during class time and office hours to ensure all targets are met. 
   * As such, the grades you earn on projects will depend heavily on your 🎨 **creative effort**.
@@ -45,14 +46,14 @@ nav_order: 0
 > 2. You will write your code in the **GitHub Codespaces IDE**. An `IDE` is an "Integrated Development Environment," which means an application (or web-app) where you can _write and run code_.
 > 3. Your completed project will be submitted on **Blackbaud** by copying your 🔗 _repository link_. 
 
-* Projects are graded on a 5-point scale, and **EXTRA CREDIT** is always available to encourage effort and creativity. _See the rubric section below for details._
+* Projects are graded on a 5-point scale, and **EXTRA CREDIT** is often available to encourage effort and creativity. _See the rubric section below for details._
 
 <html>
  
 <details>
-<summary><strong class="text-purple-100">PROJECT GRADING RUBRIC</strong></summary>
+<summary><strong class="text-purple-100">EXAMPLE PROJECT GRADING RUBRIC</strong></summary>
 
-<p class="fs-3 highlight">Programming projects are evaluated via a qualitative system considering a program’s efficiency, legibility, correctness, completeness, documentation, and creativity. The grading rubric employs a 5-point scale. The overall assignment score is then adjusted to be out of 10 points, so that all grades start from a <strong>scaled zero</strong> (baseline grade of 50%). Extra credit may be awarded for exceptional effort!</p>
+<p class="fs-3 highlight">Programming projects are evaluated via a qualitative system considering a program’s efficiency, legibility, correctness, completeness, documentation, and creativity. The grading rubric employs a 5-point scale. The overall assignment score is then adjusted to be out of 10 points, so that all grades start from a <strong>scaled zero</strong> (baseline grade of 50% assuming something was submitted). If no project is submitted, then a zero will be assigned. Extra credit may be awarded for exceptional effort!</p>
 
 <div>
 <table><thead>
@@ -63,7 +64,7 @@ nav_order: 0
   </tr></thead>
 <tbody>
   <tr>
-    <td class="fs-1">A submission that exceeds standard expectations, often reflecting additional work beyond the requirements or gets the job done in a particularly elegant way. Rarely awarded, but well-earned.</td>
+    <td class="fs-1">A submission that exceeds standard expectations, often reflecting additional work beyond the requirements or gets the job done in a particularly elegant way. Rarely awarded, but well-earned. AI should not be utilized. </td>
     <td class="text-center">6/5</td>
     <td class="text-center">110%</td>
   </tr>
@@ -103,14 +104,14 @@ nav_order: 0
 </details>
 </html>
 
-* 💯 **GRADE IMPROVEMENT POLICY**: You may <span class="highlighter">re-submit projects for a full RE-GRADE</span>, but you must email me to let me know which project, and it must be completed at least one week BEFORE the end of the current quarter.
+* 💯 **GRADE IMPROVEMENT POLICY**: Upon approval, you may <span class="highlighter">re-submit projects for a full RE-GRADE</span>, but you must email me to let me know which project for approval, and it must be completed BEFORE the end of the following project. Once I receive your email, I will respond with a confirmed re-submission due date. 
   * When re-working your projects, you are encouraged to come to **office hours** for help or additional feedback. I am way more likely to grade your work favorably if you have shown effort towards improving your skills...
   * Coding is an **iterative process** which means it is VERY normal not to have your programs working perfectly the first time! Programmers often have to edit their code many times.
   
 {: .warning .fs-3 }
-📧 You must **SEND ME AN EMAIL** whenever you update or resubmit a project, especially after the assignment has been graded on Blackbaud! _Otherwise I will not be notified._
+📧 You may resubmit multiple times, but you must **SEND ME AN EMAIL** whenever you plan to update or resubmit a project, especially after the assignment has been graded on Blackbaud! _Otherwise I will not be notified._
 
-### HOMEWORK (30%)
+### HOMEWORK (25%)
 * 💬 **Homework** is assigned in the form of a `CodeCollab`: like posting on a discussion board, but instead of talking about a book or article, the class has a shared goal of figuring out how some 🔍 mystery code works.
 
 * _Homework assignments follow this workflow:_
@@ -121,15 +122,17 @@ nav_order: 0
 {: .highlight .fs-3 }
 CodeCollabs are always **due on `Fridays @ 11:59PM`**❗
 
-* ⏰ **LATE HOMEWORK**: Students are expected to submit work by the assigned due date. This helps you participate fully in class and engage in the lessons. While there may be **grading penalties** for work submitted late, the goal is to help you successfully complete assignments on time, so you are prepared to learn and progress in class. If you require an **extension**, it is _your responsibility_ to let me know and have a plan in place for submission.
+* 🌟 **AI HOMEWORK POLICY**: Students are expected to complete homework without the use of AI. Written posts should be the student's work and the student's alone. When exploring a program, you may search for functionality using the API documentation linked in the header of the class website. A common structure to support learning, while also crediting any online searching is to outline your process in your post. For example: "When investigating the program, I thought xx line of code would accomplish this task. After researching, I found that xx would complete that action, and the xx line of code actually did zz action." 
+
+* ⏰ **LATE HOMEWORK**: Students are expected to submit work by the assigned due date. This helps you participate fully in class and engage in the lessons. While there will be **grading penalties** for work submitted late, the goal is to help you successfully complete assignments on time, so you are prepared to learn and progress in class. If you require an **extension**, it is _your responsibility_ to let me know and have a plan in place for submission.
 
 {: .warning .fs-3 }
 📧 You must **SEND ME AN EMAIL** whenever you submit homework late, especially after the assignment has been graded on Blackbaud! _Otherwise I will not be notified._
 
-### CLASSWORK (30%)
+### CLASSWORK (25%)
 * 📝 **Classwork** involves a mix of note-taking lessons and interactive coding activities.
-  * 📓 **Notes:** Each unit begins with a series of tutorial-style lessons where you will write code alongside the instructor, learning new concepts through practical demonstrations while building your own working program to use as a reference.
-  * 🎯 **Activities:** Between note-taking sessions, you will also be tasked with coding exercises that provide you opportunities to check your understanding, play around with new skills, think creatively, practice debugging, solve challenges, and collaborate with peers. _Think of these activities as mini-projects._
+* 📓 **Notes:** Each unit begins with a series of tutorial-style lessons where you will write code alongside the instructor, learning new concepts through practical demonstrations while building your own working program to use as a reference.
+* 🎯 **Activities:** Between note-taking sessions, you will also be tasked with coding exercises that provide you opportunities to check your understanding, play around with new skills, think creatively, practice debugging, solve challenges, and collaborate with peers. _Think of these activities as mini-projects._
 
 {: .highlight .fs-3 }
 Expect at least one classwork-type assignment to be **graded** each week: Either a "note check" to confirm you are caught up on new material, or a completion grade for a coding activity. _It should be easy to get 100% in this category if you are engaged and on-task during class time._
@@ -137,6 +140,8 @@ Expect at least one classwork-type assignment to be **graded** each week: Either
 {: .warning .fs-3 }
 ‼️ If you are **ABSENT**, you are expected to take initiative to catch up on any missed classwork! _Everything_ we cover in class is on the **course website**. Refer to the **Blackbaud** classwork assignment each week to see which 📓 **note sections** were covered or which 🎯 **activities** need to be completed. 
 
+### ASSESSMENTS (15%)
+* 📚 **ASSESSMENTS** may take a variety of formats, but will largely be in-class assignments similar to homework discussions using exam.net to assess students analysis without the use of AI. Students may also be asked to write pseudo-code for a program, debug code by hand, or present their cooding project to the class for review. Assessments are meant to be challenging additions to the course to push students towards proficient coding, leadership, and independent thinking. 
 ---
 
 ## Expectations & Policies
@@ -163,12 +168,12 @@ Expect at least one classwork-type assignment to be **graded** each week: Either
 ⏰ **TARDINESS:** If you are **over 5 minutes late**, you must first get a LATE PASS from the Upper School Office and enter QUIETLY so as to not disrupt the lesson.
 
 ### Other Classroom Policies
-* 🗓️ **Office Hours / Extra Help** is held in <span class="highlighter">Room #71</span> during <span class="highlighter">7th period (1:00-1:40) daily</span>.
-  * Drop-ins are welcome, meaning there is no need to let me know in advance.  
+* 🗓️ **Office Hours / Extra Help** is held in <span class="highlighter">Room #63</span> on <span class="highlighter"> Tuesday 3:30 until 4:15</span>.
+  * Drop-ins during free periods are welcome, and we may utilize overlapping time during the day for additional help.  
 * 📝 You can leave a **sticky note on my desk** for anything you want me to remember to do.
   * _Ex: “Please re-grade my Unit 1 Project”_
-* 🖊️ **Student supplies** (pens, pencils, sticky notes, etc.) will always be available to borrow, located up front by the whiteboard.
-  * No need to ask, but please return pens/pencils after class! 
+* 🖊️ **Student supplies** (pens, pencils, sticky notes, paper, etc.) will always be available to borrow, located in the student supplied cart by the window.
+  * No need to ask, but please return anything you borrow after class! The supplies only last as long as they are respected and kept track of.
 * 🤞 **SILENTLY SIGNAL** that you need to leave for the bathroom or water by holding up crossed fingers.
 * 🚫 **NO FOOD** in the Computer Lab → eat your lunch in the Commons instead.
   * Specifically, please do not bring _meals_ to eat in this classroom. Small **packaged snacks** are OK!
@@ -216,7 +221,8 @@ If these steps are not followed, your use of GenAI will be considered an **acade
      <ul>
       <li>Completing any written assignments, like homework discussions</li>
       <li>Asking GenAI to write a significant portion of code for a program</li>
-      <li>Copying any amount of code without reading the explanation and understanding how it works</li>
+      <li>Copying any amount of code </li>
+      <li> Not reading the AI explanation and understanding how it works</li>
       <li>Not asking for permission to use GenAI tools, not checking for inaccuracies, and not citing work with GenAI</li>
      </ul>
     </td>
